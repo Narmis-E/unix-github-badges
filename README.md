@@ -4,8 +4,8 @@ If I am missing any DE/WMs (I am) feel free to make a PR for them. \
 I am using the colour blue as a default, but you can change this to any colour by simply changing the colour in the URL:
 
 Debian--blue.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--blue.svg?logo=debian-red)\
-Debian--darkred.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--darkred.svg?logo=debian-red)
-
+Debian--darkred.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--darkred.svg?logo=debian-red)\
+Debian--orange.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--orange.svg?logo=debian-red)
 
 ## Window Managers
 | Window Manager | Badge |
