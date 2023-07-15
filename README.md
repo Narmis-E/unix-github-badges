@@ -51,5 +51,3 @@ Debian--darkred.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--da
 | RHEL (cringe) | ![](https://custom-icon-badges.demolab.com/badge/RHEL--blue.svg?logo=redhat-cringe) |
 | Slackware | ![](https://custom-icon-badges.demolab.com/badge/Slackware--blue.svg?logo=slackware) |
 | Ubuntu | ![](https://custom-icon-badges.demolab.com/badge/Ubuntu--blue.svg?logo=ubuntu-new) |
-
-
