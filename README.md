@@ -35,5 +35,21 @@ Debian--darkred.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--da
 ## Distributions
 | Distro | Badge |
 |:-------------------:|:-----:|
+| Archlinux | ![](https://custom-icon-badges.demolab.com/badge/Arch--blue.svg?logo=archlinux) |
 | Debian | ![](https://custom-icon-badges.demolab.com/badge/Debian--blue.svg?logo=debian-red) |
+| Fedora | ![](https://custom-icon-badges.demolab.com/badge/Fedora--blue.svg?logo=fedora-linux) |
+| FreeBSD | ![](https://custom-icon-badges.demolab.com/badge/FreeBSD--blue.svg?logo=freebsd-unix) |
+| Gentoo | ![](https://custom-icon-badges.demolab.com/badge/Gentoo--blue.svg?logo=gentoo-linux) |
+| Kali | ![](https://custom-icon-badges.demolab.com/badge/Kali--blue.svg?logo=kali) |
+| LFS | ![](https://custom-icon-badges.demolab.com/badge/LFS--blue.svg?logo=lfs) |
+| Manjaro | ![](https://custom-icon-badges.demolab.com/badge/Manjaro--blue.svg?logo=manjaro) |
+| Mint | ![](https://custom-icon-badges.demolab.com/badge/Mint--blue.svg?logo=mint) |
+| Opensuse | ![](https://custom-icon-badges.demolab.com/badge/openSUSE--blue.svg?logo=opensuse) |
+| Opensuse LEAP | ![](https://custom-icon-badges.demolab.com/badge/Leap--blue.svg?logo=leap) |
+| Opensuse LEAP | ![](https://custom-icon-badges.demolab.com/badge/Leap--blue.svg?logo=leap) |
+| Opensuse Tumbleweed | ![](https://custom-icon-badges.demolab.com/badge/Tumbleweed--blue.svg?logo=tumbleweed) |
+| RHEL (cringe) | ![](https://custom-icon-badges.demolab.com/badge/RHEL--blue.svg?logo=redhat-cringe) |
+| Slackware | ![](https://custom-icon-badges.demolab.com/badge/Slackware--blue.svg?logo=slackware) |
+| Ubuntu | ![](https://custom-icon-badges.demolab.com/badge/Ubuntu--blue.svg?logo=ubuntu-new) |
+
 
