@@ -1,7 +1,7 @@
 # unix-github-badges
 A collection of github badges for unix distros, window managers and desktop environments alike. Made using thr badge generator at https://custom-icon-badges.demolab.com/. \
 If I am missing any DE/WMs (I am) feel free to make a PR for them. \
-I am using the colour blue as a default, but you can change this to any colour by simply changing the colour in the URL:
+You can change the second colour to a small amount of colours by simply changing the colour in the URL:
 
 Debian--blue.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--blue.svg?logo=debian-red)\
 Debian--darkred.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--darkred.svg?logo=debian-red)\
@@ -37,20 +37,20 @@ Debian--orange.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--ora
 |:-------------------:|:-----:|
 | Archlinux | ![](https://custom-icon-badges.demolab.com/badge/Arch--blue.svg?logo=archlinux) |
 | Artix | ![](https://custom-icon-badges.demolab.com/badge/Artix--blue.svg?logo=artix) |
-| Debian | ![](https://custom-icon-badges.demolab.com/badge/Debian--blue.svg?logo=debian-red) |
+| Debian | ![](https://custom-icon-badges.demolab.com/badge/Debian--darkred.svg?logo=debian-red) |
 | EndeavourOS | ![](https://custom-icon-badges.demolab.com/badge/EndeavourOS--purple.svg?logo=endeavouros) |
 | Fedora | ![](https://custom-icon-badges.demolab.com/badge/Fedora--blue.svg?logo=fedora-linux) |
-| FreeBSD | ![](https://custom-icon-badges.demolab.com/badge/FreeBSD--blue.svg?logo=freebsd-unix) |
-| Gentoo | ![](https://custom-icon-badges.demolab.com/badge/Gentoo--blue.svg?logo=gentoo-linux) |
+| FreeBSD | ![](https://custom-icon-badges.demolab.com/badge/FreeBSD--darkred.svg?logo=freebsd-unix) |
+| Gentoo | ![](https://custom-icon-badges.demolab.com/badge/Gentoo--lightpink.svg?logo=gentoo-linux) |
 | Kali | ![](https://custom-icon-badges.demolab.com/badge/Kali--blue.svg?logo=kali) |
-| LFS | ![](https://custom-icon-badges.demolab.com/badge/LFS--blue.svg?logo=lfs) |
-| Manjaro | ![](https://custom-icon-badges.demolab.com/badge/Manjaro--blue.svg?logo=manjaro) |
-| Mint | ![](https://custom-icon-badges.demolab.com/badge/Mint--blue.svg?logo=mint) |
-| Opensuse | ![](https://custom-icon-badges.demolab.com/badge/openSUSE--blue.svg?logo=opensuse) |
-| Opensuse LEAP | ![](https://custom-icon-badges.demolab.com/badge/Leap--blue.svg?logo=leap) |
-| Opensuse Tumbleweed | ![](https://custom-icon-badges.demolab.com/badge/Tumbleweed--blue.svg?logo=tumbleweed) |
-| RHEL (cringe) | ![](https://custom-icon-badges.demolab.com/badge/RHEL--blue.svg?logo=redhat-cringe) |
+| LFS | ![](https://custom-icon-badges.demolab.com/badge/LFS--yellow.svg?logo=lfs) |
+| Manjaro | ![](https://custom-icon-badges.demolab.com/badge/Manjaro--darkegreen.svg?logo=manjaro) |
+| Mint | ![](https://custom-icon-badges.demolab.com/badge/Mint--darkegreen.svg?logo=mint) |
+| Opensuse | ![](https://custom-icon-badges.demolab.com/badge/openSUSE--green.svg?logo=opensuse) |
+| Opensuse LEAP | ![](https://custom-icon-badges.demolab.com/badge/Leap--green.svg?logo=leap) |
+| Opensuse Tumbleweed | ![](https://custom-icon-badges.demolab.com/badge/Tumbleweed--darkcyan.svg?logo=tumbleweed) |
+| RHEL (cringe) | ![](https://custom-icon-badges.demolab.com/badge/RHEL--red.svg?logo=redhat-cringe) |
 | Slackware | ![](https://custom-icon-badges.demolab.com/badge/Slackware--blue.svg?logo=slackware) |
-| Ubuntu | ![](https://custom-icon-badges.demolab.com/badge/Ubuntu--blue.svg?logo=ubuntu-new) |
-| Voidlinux | ![](https://custom-icon-badges.demolab.com/badge/Void--blue.svg?logo=void) |
+| Ubuntu | ![](https://custom-icon-badges.demolab.com/badge/Ubuntu--orange.svg?logo=ubuntu-new) |
+| Voidlinux | ![](https://custom-icon-badges.demolab.com/badge/Void--lightgreen.svg?logo=void) |
 
