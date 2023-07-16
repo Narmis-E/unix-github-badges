@@ -24,7 +24,7 @@ I've coloured the below badges myself according to the main colours of the icons
 | Ratpoison | ![](https://custom-icon-badges.demolab.com/badge/Ratpoison--CB0000.svg?logo=ratpoison-new) |
 | Sway | ![](https://custom-icon-badges.demolab.com/badge/Sway--EB583D.svg?logo=sway) |
 | Xmonad | ![](https://custom-icon-badges.demolab.com/badge/xmonad--FD4D5E.svg?logo=xmonad-new) |
-| Yabai | ![](https://custom-icon-badges.demolab.com/badge/Yabai--305B6C.svg?logo=yabai) |
+| Yabai | ![](https://custom-icon-badges.demolab.com/badge/Yabai--003F58.svg?logo=yabai-wm) |
 
 ## Desktop Environments
 | Desktop Environment | Badge |
