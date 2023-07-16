@@ -7,6 +7,10 @@ Debian--blue.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--blue.
 Debian--C71151.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--C71151.svg?logo=debian-red)
 
 
+I've coloured the below badges myself according to the main colours of the icons, but feel free to change them as you see fit.
+
+---
+
 ## Window Managers
 | Window Manager | Badge |
 |:--------------:|:-----:|
