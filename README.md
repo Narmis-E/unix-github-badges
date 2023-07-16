@@ -4,7 +4,7 @@ If I am missing any DE/WMs (I am) feel free to make a PR for them. \
 You can change the second colour by simply changing the hex value in the URL:
 
 Debian--blue.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--blue.svg?logo=debian-red)\
-Debian--C71151.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--C71151.svg?logo=debian-red)
+Debian--D70751.svg: ![](https://custom-icon-badges.demolab.com/badge/Debian--D70751.svg?logo=debian-red)
 
 
 I've coloured the below badges myself according to the main colours of the icons, but feel free to change them as you see fit.
@@ -50,9 +50,10 @@ I've coloured the below badges myself according to the main colours of the icons
 | LFS | ![](https://custom-icon-badges.demolab.com/badge/LFS--FDCA00.svg?logo=lfs) |
 | Manjaro | ![](https://custom-icon-badges.demolab.com/badge/Manjaro--3EE16C.svg?logo=manjaro) |
 | Mint | ![](https://custom-icon-badges.demolab.com/badge/Mint--7CD54A.svg?logo=mint) |
+| OpenBASED | ![](https://custom-icon-badges.demolab.com/badge/openBSD--EAD370.svg?logo=openBASED) |
 | Opensuse | ![](https://custom-icon-badges.demolab.com/badge/openSUSE--87DB2B.svg?logo=opensuse) |
 | Opensuse LEAP | ![](https://custom-icon-badges.demolab.com/badge/Leap--76D351n.svg?logo=leap) |
-| Opensuse Tumbleweed | ![](https://custom-icon-badges.demolab.com/badge/Tumbleweed--43D4C5.svg?logo=tumbleweed) |
+| Opensuse Tumbleweed | ![](https://custom-icon-badges.demolab.com/badge/Tumbleweed--41D1C3.svg?logo=tumbleweed) |
 | RHEL (cringe) | ![](https://custom-icon-badges.demolab.com/badge/RHEL--EE0000.svg?logo=redhat-cringe) |
 | Slackware | ![](https://custom-icon-badges.demolab.com/badge/Slackware--647ADA.svg?logo=slackware) |
 | Ubuntu | ![](https://custom-icon-badges.demolab.com/badge/Ubuntu--FF8926.svg?logo=ubuntu-new) |
